@@ -15,6 +15,7 @@ image-braille-art-gen <width in px> <height in px> <color threshold 0 - 255> <in
 
 ## Results
 Input image
+
 ![Image](/assets/ok.jpg)
 
 The resulting text file can be found [here](/assets/result.txt).
