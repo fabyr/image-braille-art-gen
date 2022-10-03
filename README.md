@@ -5,7 +5,7 @@ A very small CLI tool to generate braille-unicode ASCII* arts.
 set of characters from the unicode standard. Not just ASCII.
 
 ## Building
-The .NET 6.0 SDK is required to be installed on the system.
+The .NET 6.0 SDK ([Official site](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)) is required to be installed on the system.
 Afterwards the command `dotnet build` with its working directory being the repository folder does the rest.
 
 ## Usage
@@ -14,6 +14,7 @@ image-braille-art-gen <width in px> <height in px> <color threshold 0 - 255> <in
 ```
 
 ## Results
+Input image
 ![Image](/assets/ok.jpg)
 
 The resulting text file can be found [here](/assets/result.txt).
